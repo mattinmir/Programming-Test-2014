@@ -1,0 +1,4 @@
+elf nam 100 10
+ogre Grug 98 30
+elf Eef 95 20
+ogre Brog 97 29
